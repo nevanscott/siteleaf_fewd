@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Reading the jQuery Docs
-permalink: /notes/jquery-docs/
+permalink: "/notes/jquery-docs/"
+layout: notes
 ---
 
 TK

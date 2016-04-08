@@ -1,9 +1,8 @@
 ---
-layout: notes
 title: About Programming
-permalink: /notes/programming/
+permalink: "/notes/programming/"
+layout: notes
 ---
-
 
 Computers will do what we tell them to do.
 

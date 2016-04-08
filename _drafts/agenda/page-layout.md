@@ -1,6 +1,7 @@
 ---
-layout: agenda
 title: Page Layout
+date: 2013-10-14 00:00:00 Z
+layout: agenda
 ---
 
 Agenda

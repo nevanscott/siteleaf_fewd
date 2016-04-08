@@ -1,6 +1,7 @@
 ---
-layout: homework
 title: Fashion Blog
+date: 2013-10-21 00:00:00 Z
+layout: homework
 ---
 
 Assignment

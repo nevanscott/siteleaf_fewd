@@ -1,10 +1,8 @@
 ---
-layout: notes
 title: Where CSS Goes
-permalink: /notes/css-placement/
+permalink: "/notes/css-placement/"
+layout: notes
 ---
-
-
 
 Inline CSS
 ----------

@@ -1,29 +1,11 @@
-permalink: /:categories/:title/
+---
+title: FEWD
+url: http://siteleaf_fewd.nevan.org
+timezone: UTC
 collections:
-  agenda:
+  posts:
+    title: Posts
     output: true
-    permalink: /:collection/:title/
-  homework:
+  uploads:
+    title: Uploads
     output: true
-    permalink: /:collection/:title/
-defaults:
-  -
-    scope:
-      path: ""
-      type: "agenda"
-    values:
-      layout: "agenda"
-  -
-    scope:
-      path: ""
-      type: "homework"
-    values:
-      layout: "homework"
-relative_permalinks: false
-markdown: redcarpet
-future: false
-redcarpet:
-  extensions:
-    - 'autolink'
-    - 'smart'
-    - 'hard_wrap'

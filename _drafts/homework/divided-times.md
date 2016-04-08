@@ -1,6 +1,7 @@
 ---
-layout: homework
 title: Divided Times
+date: 2013-11-18 00:00:00 Z
+layout: homework
 ---
 
 Assignment

@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Filenames
-permalink: /notes/filenames/
+permalink: "/notes/filenames/"
+layout: notes
 ---
 
 Why are there no spaces in file and folder names?

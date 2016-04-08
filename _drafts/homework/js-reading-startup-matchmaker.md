@@ -1,6 +1,7 @@
 ---
-layout: homework
 title: JS Reading & Startup Matchmaker
+date: 2013-10-28 00:00:00 Z
+layout: homework
 ---
 
 Assignment

@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Notes
-permalink: /notes/
+permalink: "/notes/"
+layout: notes
 ---
 
 These notes are meant to serve as a supplement to the material we cover in class.

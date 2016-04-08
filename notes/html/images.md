@@ -1,10 +1,8 @@
 ---
-layout: notes
 title: Working with Images
-permalink: /notes/images/
+permalink: "/notes/images/"
+layout: notes
 ---
-
-
 
 Images are placed using the `<img>` tag.
 

@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Starter Properties
-permalink: /notes/starter-properties/
+permalink: "/notes/starter-properties/"
+layout: notes
 ---
 
 The following properties should serve you well as an initial set to become familiar with:

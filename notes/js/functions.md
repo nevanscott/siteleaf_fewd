@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Functions
-permalink: /notes/functions/
+permalink: "/notes/functions/"
+layout: notes
 ---
 
 Functions are like little pieces of functionality that we can run.

@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Starter Methods
-permalink: /notes/starter-methods/
+permalink: "/notes/starter-methods/"
+layout: notes
 ---
 
 I strongly recommend perusing the [jQuery API Documentation](http://api.jquery.com). Oscar Otero also has a really nice table of contents for the docs at his [jQuery Cheatsheet](http://oscarotero.com/jquery/).

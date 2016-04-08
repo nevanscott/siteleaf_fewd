@@ -1,6 +1,7 @@
 ---
-layout: agenda
 title: Workflow and Refactoring
+date: 2013-11-13 00:00:00 Z
+layout: agenda
 ---
 
 Agenda

@@ -1,6 +1,7 @@
 ---
-layout: agenda
 title: CSS Lab
+date: 2013-10-21 00:00:00 Z
+layout: agenda
 ---
 
 Agenda

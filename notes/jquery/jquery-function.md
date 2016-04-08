@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: The jQuery Function
-permalink: /notes/jquery-function/
+permalink: "/notes/jquery-function/"
+layout: notes
 ---
 
 When we use the jQuery library, we primarily make use of the functionality it provides by using a function that it provides called the jQuery function. It's designed to be an immensely flexible function with many uses.

@@ -1,9 +1,8 @@
 ---
-layout: notes
 title: Using Colors in CSS
-permalink: /notes/colors/
+permalink: "/notes/colors/"
+layout: notes
 ---
-
 
 Colors can be specified in CSS in a variety of ways:
 

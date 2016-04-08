@@ -1,6 +1,7 @@
 ---
-layout: homework
 title: About Me Markup
+date: 2013-10-07 00:00:00 Z
+layout: homework
 ---
 
 Assignment

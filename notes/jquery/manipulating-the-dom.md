@@ -1,9 +1,8 @@
 ---
-layout: notes
 title: Manipulating the DOM
-permalink: /notes/dom-manipulation/
+permalink: "/notes/dom-manipulation/"
+layout: notes
 ---
-
 
 Once we've selected an element or set of elements, we typically want to do something to (or with) that element / those elements.
 

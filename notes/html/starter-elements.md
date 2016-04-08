@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Starter Elements
-permalink: /notes/starter-elements/
+permalink: "/notes/starter-elements/"
+layout: notes
 ---
 
 The following elements should serve you well as an initial set to become familiar with:

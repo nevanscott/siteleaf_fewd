@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: /about/
 title: About
+permalink: "/about/"
+layout: default
 ---
 
 About the Course

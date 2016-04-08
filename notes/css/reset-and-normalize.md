@@ -1,7 +1,7 @@
 ---
-layout: notes
 title: Reset & Normalize
-permalink: /notes/reset-and-normalize/
+permalink: "/notes/reset-and-normalize/"
+layout: notes
 ---
 
 What are `normalize.css` and `reset.css`?
