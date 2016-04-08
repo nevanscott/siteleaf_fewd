@@ -3,6 +3,9 @@ title: FEWD
 url: http://siteleaf_fewd.nevan.org
 timezone: UTC
 collections:
+  homework:
+    title: Homework
+    output: true
   posts:
     title: Posts
     output: true
